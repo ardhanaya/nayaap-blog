@@ -1,2 +1,2 @@
-# nayaap-blog
+# ardhaism-blog
 first project blog with gatsbyjs
